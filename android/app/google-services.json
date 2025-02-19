@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "204475737814",
+    "project_id": "amozon-a65d8",
+    "storage_bucket": "amozon-a65d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204475737814:android:3db78ba14423c38c610b77",
+        "android_client_info": {
+          "package_name": "com.example.amozon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204475737814-r44g9t7b4cncvqhqq5itetbra25ikjm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amozon_app",
+            "certificate_hash": "1c44815bbff4420b43d48550b3c0594ae60c9b5b"
+          }
+        },
+        {
+          "client_id": "204475737814-g6b8246t9hv962m5d00uf0r86s9gq27d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TiK1epCxh3Ns4OhdE_J6IIkV8uwKoa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204475737814-g6b8246t9hv962m5d00uf0r86s9gq27d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204475737814-dj2mc0n1n08mn8l15a58ll5s8qr80fu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amozonApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
